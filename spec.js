@@ -4,6 +4,8 @@ var imdbSearchResult = require('./imdbSearchResult');
 var imdbFilm = require('./imdbFilm');
 var imdbStar = require('./imdbStar');
 
+//this is a useless comment
+
 //expected conditions
 // var EC = protractor.ExpectedConditions;
 // var textContains = EC.textToBePresentInElementValue();
