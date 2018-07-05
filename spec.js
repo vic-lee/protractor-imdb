@@ -6,6 +6,9 @@ var imdbStar = require('./imdbStar');
 
 //this is a useless comment
 
+//branch1 testing
+//testing 
+
 //expected conditions
 // var EC = protractor.ExpectedConditions;
 // var textContains = EC.textToBePresentInElementValue();
